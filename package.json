@@ -9,8 +9,8 @@
     "webpack",
     "vue"
   ],
-  "bugs": "https://github.com/visualfanatic/vue-svg-loader/issues",
-  "repository": "visualfanatic/vue-svg-loader",
+  "bugs": "https://github.com/teamwork/vue-svg-loader/issues",
+  "repository": "teamwork/vue-svg-loader",
   "license": "MIT",
   "author": "visualfanatic",
   "main": "index.js",
